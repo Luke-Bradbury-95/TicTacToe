@@ -35,6 +35,7 @@ while (!WinCheck(userChoice))
 
  void SetField()
 {
+    Console.Clear();
     Console.WriteLine("     |     |     ");
     Console.WriteLine("  {0}  |  {1}  |   {2} " , userChoice[0,0], userChoice[0,1], userChoice[0,2]);
     Console.WriteLine("_____|_____|____");
