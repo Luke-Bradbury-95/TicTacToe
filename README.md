@@ -6,4 +6,4 @@ It will use conditional statements to check who wins.
 It will use 2d arrays in order to create the playing field, and for users to be able to change the values of the arrays.
 
 
-Problems i face:
+Problemsmi had to overcome, included creating the playing field, to which i conquered this by using a multidimentional array.
